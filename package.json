@@ -1,0 +1,15 @@
+{
+  "name": "ghost",
+  "version": "1.0.0",
+  "description": "A bot which will do Ghost ping when a user joins a server.",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "DynamoYT#1000",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
