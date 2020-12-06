@@ -6,4 +6,4 @@
 > 5) Congratulations your bot is turned on and ready to rock and roll.
 
 # YouTube video
-[Link here]()
+[Link here](https://youtu.be/qvAwLEkkuJc)
